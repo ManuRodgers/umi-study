@@ -19,5 +19,11 @@
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.1.0",
     "husky": "^0.12.0"
-  }
+  },
+  "name": "umi-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ManuRodgers/umi-study.git",
+  "author": "manu <manurodgersgoat@gmail.com>",
+  "license": "MIT"
 }
